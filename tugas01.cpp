@@ -1,6 +1,7 @@
-#include <oistream>
+#include <iostream>
 using namespace std;
 
 int main(){
-	cout << "Hello World";	
+	cout << "Halo Dunia" << endl ;
+	cout << "ini program c++ pertama saya";	
 }
